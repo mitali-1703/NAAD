@@ -22,9 +22,9 @@ P10.[Program to Check if two strings are anagram](https://github.com/mitali-1703
 
 P11.[Program to implement StringBuilder class of Java](https://github.com/mitali-1703/NAAD/blob/main/src/P11.java)
 
-P12.[](https://github.com/mitali-1703/NAAD/blob/main/src/P12.java)
+P12.[Program to implement HashMap class of Java](https://github.com/mitali-1703/NAAD/blob/main/src/P12.java)
 
-P13.[](https://github.com/mitali-1703/NAAD/blob/main/src/P13.java)
+P13.[Program to implement StringBuilder class of Java](https://github.com/mitali-1703/NAAD/blob/main/src/P13.java)
 
 P14.[](https://github.com/mitali-1703/NAAD/blob/main/src/P14.java)
 
